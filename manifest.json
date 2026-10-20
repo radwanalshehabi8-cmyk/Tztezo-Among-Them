@@ -1,0 +1,20 @@
+{
+  "name": "Tztezo among them",
+  "short_name": "Tztezo Among Them",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b0a24",
+  "theme_color": "#141235",
+  "icons": [
+    {
+      "src": "icon1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
